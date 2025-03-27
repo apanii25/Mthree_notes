@@ -32,5 +32,7 @@
    - Develop the ReactJS components for login and signup forms.
    - Test the integration between ReactJS and the SQL backend.
    - Evaluate additional database security measures (e.g., encryption at rest, access controls).
+     
+**Note: Detailed Project Progress Report is available on the mthree_project Gitup repo**
 
 

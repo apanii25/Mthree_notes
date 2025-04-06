@@ -430,16 +430,6 @@ Content-Type: application/json
 
 ---
 
-## 📌 Notes
-
-- 🔒 Always validate inputs before sending API calls.
-- 🔁 Use `window.location.reload()` after login to refresh auth state.
-- ❗ Store only necessary data in `localStorage` for security.
-- ⏱️ Consider adding `axios` timeouts and error handling.
-- 🔄 Ensure police badge ID is stored and passed for complaint registration.
-
----
-
 ## 💡 Technologies Used
 
 - **ReactJS** for frontend
@@ -449,13 +439,5 @@ Content-Type: application/json
 
 ---
 
-## ✉️ Contacts
-
-For backend issues or bug reports, contact the development team at:
-```
-support@ipcnexus.org
-```
-
----
-
+#
 
